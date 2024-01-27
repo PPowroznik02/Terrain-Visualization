@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (Shaders05.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  main.cpp
+C:\Users\001\Desktop\WizualizacjaTerenu\main.cpp(113,33): warning C4101: "uvIndex": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\001\Desktop\WizualizacjaTerenu\main.cpp(165,29): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\001\Desktop\WizualizacjaTerenu\main.cpp(182,29): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\001\Desktop\WizualizacjaTerenu\main.cpp(210,29): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\001\Desktop\WizualizacjaTerenu\main.cpp(247,10): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\001\Desktop\WizualizacjaTerenu\main.cpp(248,10): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\001\Desktop\WizualizacjaTerenu\main.cpp(249,10): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  shadersLoader.cpp
+  Generowanie kodu...
+C:\Users\001\Desktop\WizualizacjaTerenu\main.cpp(156): warning C4715: "loadOBJ”: niewszystkie ścieżki kodu zwracają wartość
+  Shaders05.vcxproj -> C:\Users\001\Desktop\WizualizacjaTerenu\Debug\Shaders.exe

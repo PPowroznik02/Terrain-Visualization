@@ -1,0 +1,3 @@
+C:\Users\001\Desktop\Przyklad5\Debug\Shaders05.exe
+C:\Users\001\Desktop\mountain\Przyklad5\Debug\Shaders.exe
+C:\Users\001\Desktop\WizualizacjaTerenu\Debug\Shaders.exe
